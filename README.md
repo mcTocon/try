@@ -5,7 +5,6 @@
 - [Features](#features)
 - [Vision](#vision)
 - [Solutions](#solutions)
-
   ---
 
 ## Demo
@@ -13,7 +12,6 @@
 https://quest.tocon.io
 
 https://www.xrpl-tocon.xyz/xrpl-demo.mp4
-
 ---
 
 ## How to Play
